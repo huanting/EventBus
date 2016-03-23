@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java-common-2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/java-common/2.3.1/653ac546425e27052ece7107d5d2e211b4291081/java-common-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.greenrobot/java-common/2.3.1/cfe7806d03d3aba12fdcd33eee9e1411f4f2f1be/java-common-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

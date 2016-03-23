@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EventBusAnnotationProcessor.eventbus-annotation-processor-3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EventBusAnnotationProcessor/build/libs/eventbus-annotation-processor-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

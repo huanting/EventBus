@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:2:1-33:12
+	xmlns:android
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:3:5-42
+	android:versionName
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:5:5-32
+		INJECTED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml
+		INJECTED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:4:5-28
+		INJECTED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml
+		INJECTED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml
+uses-sdk
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:8:9-34
+uses-feature#android.hardware.touchscreen
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:12:9-52
+application
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:15:5-31:19
+	android:label
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:16:9-45
+activity#org.greenrobot.eventbusperf.TestSetupActivity
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:19:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:23:27-74
+activity#org.greenrobot.eventbusperf.TestRunnerActivity
+ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:28:13-45
+	android:process
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:29:13-64
+	android:name
+		ADDED from D:\test\EventBus\EventBusPerformance\AndroidManifest.xml:27:13-74

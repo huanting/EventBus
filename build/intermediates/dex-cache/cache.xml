@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\test\EventBus\EventBus\build\libs\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4f5b4033c36ff9eda87152191367f30441a6029b">
+        <dex dex="D:\test\EventBus\EventBusPerformance\build\intermediates\pre-dexed\debug\eventbus-3.0.0_5aab9692a9bcea2732f898ea428f97c1fcf332c4.jar" />
+    </item>
+
+</items>

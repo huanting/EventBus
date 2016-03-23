@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EventBus.iml" filepath="$PROJECT_DIR$/.idea/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus-EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus-EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusAnnotationProcessor/EventBusAnnotationProcessor.iml" filepath="$PROJECT_DIR$/EventBusAnnotationProcessor/EventBusAnnotationProcessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusPerformance/EventBusPerformance.iml" filepath="$PROJECT_DIR$/EventBusPerformance/EventBusPerformance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusTest/EventBusTest.iml" filepath="$PROJECT_DIR$/EventBusTest/EventBusTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusTestSubscriberInJar/EventBusTestSubscriberInJar.iml" filepath="$PROJECT_DIR$/EventBusTestSubscriberInJar/EventBusTestSubscriberInJar.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\test\\EventBus\\EventBusPerformance\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setuptests.xml",
+        "source": "D:\\test\\EventBus\\EventBusPerformance\\res\\layout\\activity_setuptests.xml"
+    },
+    {
+        "merged": "D:\\test\\EventBus\\EventBusPerformance\\build\\intermediates\\res\\merged\\debug\\layout\\activity_runtests.xml",
+        "source": "D:\\test\\EventBus\\EventBusPerformance\\res\\layout\\activity_runtests.xml"
+    }
+]
